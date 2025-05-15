@@ -23,6 +23,10 @@ Melakukan analisis teks sederhana terhadap data teks bahasa Inggris, yang mencak
 
 ## Sebelum dan Sesudah Text Cleaning dan Pre-Processing
 
+Sebelum
+
+![Image](https://github.com/Naufaliaa/Cleaning-Text-Data/blob/main/image/Review%20Skincare.png)
+
 Setelah
 
 ![Image](https://github.com/Naufaliaa/Cleaning-Text-Data/raw/main/image/Cleaned_Review.PNG)
