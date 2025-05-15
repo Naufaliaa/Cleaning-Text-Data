@@ -22,3 +22,7 @@ Melakukan analisis teks sederhana terhadap data teks bahasa Inggris, yang mencak
 - NLTK
 
 ## Sebelum dan Sesudah Text Cleaning dan Pre-Processing
+
+Setelah
+
+![Image](https://github.com/Naufaliaa/Cleaning-Text-Data/raw/main/image/Cleaned_Review.PNG)
